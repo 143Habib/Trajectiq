@@ -1,4 +1,4 @@
-# TRAJECTIQ · React mission design game
+# TRAJECTIQ · React mission design game(NASA SPACE APP CHALLENGE)
 
 Interactive spacecraft design, mission simulation and engineering trade-offs for the NASA Space Apps game challenge.
 
